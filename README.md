@@ -1,2 +1,2 @@
 # Package-Management-Tracking-System
-The Package Management System is a software project designed to handle various package-related operations such as reading, writing, receiving, sending, and managing routes for packages.
+The Package Management System is a software project designed to handle various package-related operations such as reading, writing, receiving, sending, and managing routes for packages. The system includes functionalities to calculate shipping costs, raise the priority of packages, and combine multiple packages based on specific criteria. It is designed to ensure efficient package handling and tracking, with support for different priority levels and error management.
